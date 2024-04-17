@@ -1,0 +1,12 @@
+html, body{
+  height: 100%;
+}
+
+body{
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: white;
+  background: rgb(45,10,140);
+  background: linear-gradient(0deg, rgba(45,10,140,1) 0%, rgba(2,0,36,1) 100%);
+}
